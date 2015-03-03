@@ -1,11 +1,12 @@
 ##wpREAP - Theme Developer           
 
-This is a plugin designed to create an XML File so real estate aggregators can syndicate listings from your WordPress powered website.     
+The plugin is designed to create an XML File so real estate aggregators can syndicate listings from your WordPress powered website.   
 
-The current version only supports one specific theme but can be easily customized to work with any WordPress template or theme that has real estate listings.     
+##What's Inside     
+wpREAP file        
+XML feed templates (Naked) with annotations on required nodes
 
-Are you a theme developer or real estate professional and want to test out the plugin? Send me an email to see how you can get a beta version for your site or theme.    
-
-#####This plugin is still in beta/testing. Use at your own risk.
+If your developing a theme to use with wpREAP you will need to have those requried nodes in your listing template.    
+The easiet to use would be Zillow, Trulia, HotPads, since they are have the most common requirements.    
 
 To see a list ofAggregators and information about xml specifications check out the wiki 
