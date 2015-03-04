@@ -1,4 +1,4 @@
-##wpREAP - Developer Version    
+##WP-RLS: Real Estate Listings Syndicator  
 
 WordPress theme developers can download the pluign and use in current or upcoming theme projects. If you plan on using it and need a site with live listings, let me know.
 
