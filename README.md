@@ -6,7 +6,7 @@ WordPress theme developers can download the pluign and use in current or upcomin
 The Plugin creates an XML File so real estate aggregators can syndicate listings from your WordPress powered website. Bascilly push listings/properties to website such as Zillow, Trulia, PadMapper, Trovit, etc...      
 
 ##What's Inside     
-wpREAP file        
+wprls_dev.php       
 XML feed templates with annotations on required nodes
 
 ##Notes::      
